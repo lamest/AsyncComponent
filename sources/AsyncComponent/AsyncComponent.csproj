@@ -1,15 +1,15 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<TargetFramework>net48</TargetFramework>
-		<LangVersion>10.0</LangVersion>
+		<TargetFramework>net7.0</TargetFramework>
+		<LangVersion>default</LangVersion>
 	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Grasshopper" Version="7.18.22124.3001">
+		<PackageReference Include="Grasshopper" Version="8.0.23304.9001">
 		  <ExcludeAssets>Grasshopper.dll</ExcludeAssets>
 		</PackageReference>
-		<PackageReference Include="RhinoCommon" Version="7.18.22124.3001" />
+		<PackageReference Include="RhinoCommon" Version="8.0.23304.9001" />
 	</ItemGroup>
 
 </Project>
