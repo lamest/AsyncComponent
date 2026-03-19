@@ -9,7 +9,7 @@
 		<PackageReference Include="Grasshopper" Version="8.0.23304.9001">
 		  <ExcludeAssets>Grasshopper.dll</ExcludeAssets>
 		</PackageReference>
-		<PackageReference Include="RhinoCommon" Version="8.0.23304.9001" />
+		<PackageReference Include="RhinoCommon" Version="8.11.24254.15001" />
 	</ItemGroup>
 
 </Project>
